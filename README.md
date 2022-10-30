@@ -4,7 +4,7 @@
 
 ## Display Stand for your REVOMAZE collection
 
-A 3D Printable display stand for your REVOMAZE puzzles.  Consisting of two stacking parts that can be configured to display either a solved or and unsolved maze. Both V1 and V3 mazes are supported.
+A 3D Printable display stand for your [REVOMAZE](https://www.revohq.co.uk/) puzzles, consisting of two stacking parts that can be configured to display either a solved or and unsolved maze. Both V1 and V3 mazes are supported.
 
 ### Unsolved
 ![V1 display stand empty](images//V1_unsolved_empty_small.png)  ![V1 display stand unsolved](images/V1_unsolved_silver_small.png)
@@ -24,3 +24,9 @@ The samples were printed with PETG but any filament should work. This is a frict
 For unsolved mazes, The sleeve holder should stack on top of the mazetube holder. There should be just enough friction to hold the two pieces together.
 
 When you have a solved maze to display, re-stack the pieces so the mazetube holder is in front. The two pieces should still hold together by friction between the feet of the parts.  For a V1 maze, orient the mazetube holder so the scooped feet are in front in order to hold the drawbar.
+
+## Modifications
+
+In the scad folder you'll find the [OpenSCAD](https://openscad.org/) files used to create this stand. They are a bit rough as I'm still a novice with OpenSCAD, however they should have enough documentation comments to be able to follow what's going on.  Please contribute any improvements you'd like.
+
+![OpenSCAD revomaze stand](image/revomaze_stand_openscad.png)
