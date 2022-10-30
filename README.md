@@ -4,6 +4,11 @@
 
 ## Display Stand for your REVOMAZE collection
 
-![V1 display stand empty](images//V1_unsolved_empty.png)
+### Unsolved
+![V1 display stand empty](images//V1_unsolved_empty_small.png)
 
-![V1 display stand unsolved](images/V1_unsolved_silver.png)
+![V1 display stand unsolved](images/V1_unsolved_silver_small.png)
+
+### Solved
+
+![V1 and V3 solved display](images/solved-v1-v3.png)
