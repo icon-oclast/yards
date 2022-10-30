@@ -29,4 +29,4 @@ When you have a solved maze to display, re-stack the pieces so the mazetube hold
 
 In the scad folder you'll find the [OpenSCAD](https://openscad.org/) files used to create this stand. They are a bit rough as I'm still a novice with OpenSCAD, however they should have enough documentation comments to be able to follow what's going on.  Please contribute any improvements you'd like.
 
-![OpenSCAD revomaze stand](image/revomaze_stand_openscad.png)
+![OpenSCAD revomaze stand](images/revomaze_stand_openscad.png)
